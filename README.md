@@ -61,7 +61,8 @@ return 0;
 
 
 ## OUTPUT
-![Uploading image.png…]()
+![320187135-c9e5ec48-831a-4a84-8af4-a5af3e05a76c](https://github.com/NiranjaniC/Linux-IPC-Shared-memory/assets/145742800/05868b5f-41a7-4112-8830-f90c0a602b9d)
+
 
 
 # RESULT:
